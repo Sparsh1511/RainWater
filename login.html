@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title>Login</title>
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair Display:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login4">
+      <section class="login-container">
+        <img
+          class="login-container-child"
+          loading="lazy"
+          alt=""
+          src="./public/rectangle-3@2x.png"
+        />
+
+        <div class="login-container-inner">
+          <form class="rectangle-group">
+            <div class="rectangle-div"></div>
+            <div class="login-frame">
+              <h1 class="login5">Login</h1>
+            </div>
+            <input class="frame-input" placeholder="Email" type="text" />
+
+            <input class="frame-child1" placeholder="Password" type="text" />
+
+            <div class="forgot-password-wrapper">
+              <div class="forgot-password">forgot Password ?</div>
+            </div>
+            <div class="login-label-wrapper">
+              <button class="login-label">
+                <div class="login6">Login</div>
+              </button>
+            </div>
+            <div class="sign-up-container">
+              <div class="sign-up4" id="signUpText">Sign Up</div>
+            </div>
+          </form>
+        </div>
+      </section>
+    </div>
+
+    <script>
+      var signUpText = document.getElementById("signUpText");
+      if (signUpText) {
+        signUpText.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+    </script>
+  </body>
+</html>

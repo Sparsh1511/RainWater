@@ -1,0 +1,560 @@
+.reservoirs2 {
+  color: var(--color-dimgray);
+}
+.raindropreservoirs2 {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 113px);
+  display: inline-block;
+  width: 229px;
+  height: 37px;
+  white-space: nowrap;
+}
+.login-signup-container {
+  width: 144px;
+  height: 59px;
+  position: relative;
+  background-image: url(./public/raindrop-reservoirs-label@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.content-f-r-a-m-e {
+  width: 202px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us1,
+.home2 {
+  position: relative;
+  display: inline-block;
+  min-width: 51px;
+  cursor: pointer;
+}
+.about-us1 {
+  min-width: 79px;
+  white-space: nowrap;
+}
+.home-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.filters-t-e-x-t,
+.login1 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  text-align: left;
+}
+.filters-t-e-x-t {
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.login1 {
+  position: relative;
+  color: var(--color-royalblue-100);
+  display: inline-block;
+  min-width: 47px;
+}
+.login-signup-i-n-p-u-t {
+  cursor: pointer;
+  border: 2px solid var(--color-royalblue-100);
+  padding: var(--padding-6xs) var(--padding-lg) var(--padding-7xs)
+    var(--padding-2xl);
+  background-color: transparent;
+  width: 90px;
+  border-radius: var(--br-21xl);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-signup-i-n-p-u-t:hover {
+  background-color: var(--color-dodgerblue-200);
+  border: 2px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.sign-up1 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 64px;
+}
+.login-signup-i-n-p-u-t1 {
+  cursor: pointer;
+  border: 3px solid var(--color-royalblue-100);
+  padding: var(--padding-6xs) var(--padding-mid) var(--padding-7xs)
+    var(--padding-lg);
+  background-color: var(--color-royalblue-100);
+  flex: 1;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.login-signup-i-n-p-u-t1:hover {
+  background-color: var(--color-dodgerblue-100);
+  border: 3px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.login-signup-i-n-p-u-t-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.login-signup-i-n-p-u-t-parent,
+.top-child,
+.top1 {
+  display: flex;
+  align-items: flex-start;
+}
+.top-child {
+  width: 231px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.top1 {
+  align-self: stretch;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-2xl) var(--padding-22xl) var(--padding-xl)
+    var(--padding-51xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-playfair-display);
+}
+.openmojireturn-back-button-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rooftop-rainwater-harvesting1 {
+  margin: 0;
+  width: 451px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.contact-us-t-e-x-t {
+  width: 876px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.image-2-icon {
+  align-self: stretch;
+  height: 592px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.blank-line1,
+.but-the-water,
+.for-a-rrh,
+.i-found-the,
+.water-that-passes {
+  margin: 0;
+}
+.quality-of-water-harvested {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.a-pipe-suction,
+.blank-line2,
+.few-days-after,
+.moreover-due-to,
+.moreover-repeated-filling,
+.rainwater-that-is {
+  margin: 0;
+}
+.conclusion {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.by-adopting-roof,
+.my-rrh-system,
+.the-over-all-performance {
+  margin: 0;
+}
+.for-a-rrh-container {
+  align-self: stretch;
+  position: relative;
+}
+.copyright-t-e-x-t {
+  width: 1108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+  max-width: 100%;
+}
+.rooftop-rainwater-harvesting2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.help-raindrop-r-e-s-e-r-v-o-i,
+.rainwater-harvesting-filters {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.help-raindrop-r-e-s-e-r-v-o-i {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-royalblue-100);
+  font-family: var(--font-playfair-display);
+}
+.rainwater-harvesting-filters {
+  width: 1344px;
+  flex-direction: row;
+  padding: 0 var(--padding-51xl) var(--padding-21xl);
+  box-sizing: border-box;
+}
+.contact-us1 {
+  margin: 0;
+  width: 152px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.privacy-policy-t-e-x-t {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.xxxx1 {
+  width: 191px;
+  position: relative;
+  display: inline-block;
+}
+.reservoirs3 {
+  color: var(--color-gainsboro-100);
+}
+.raindropreservoirs3 {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 113px);
+  display: inline-block;
+  width: 229px;
+  height: 37px;
+}
+.for-a-r-r-hsystem {
+  align-self: stretch;
+  height: 59px;
+  position: relative;
+  background-image: url(./public/raindrop-reservoirs-label@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyright-20231 {
+  position: relative;
+  font-weight: 500;
+}
+.copyright {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.image,
+.x-icon1 {
+  position: absolute;
+}
+.image {
+  top: 0;
+  left: 0;
+  width: 144px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-87xl);
+}
+.x-icon1 {
+  top: 35px;
+  left: 879px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.raindrop-reservoirs-t-e-x-t {
+  height: 187px;
+  width: 919px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -86px;
+  left: -387px;
+}
+.helpraindropreservoirscom1 {
+  width: 334px;
+  position: relative;
+  font-family: var(--font-inter);
+  display: inline-block;
+  white-space: nowrap;
+}
+.raindrop-reservoirs-t-e-x-t-parent,
+.xxxx-group {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.raindrop-reservoirs-t-e-x-t-parent {
+  flex-direction: row;
+  position: relative;
+  font-family: var(--font-playfair-display);
+}
+.xxxx-group {
+  flex-direction: column;
+  padding: 0 0 var(--padding-15xl);
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-5xl);
+}
+.terms-conditions1 {
+  position: relative;
+  font-weight: 500;
+}
+.follow-us1,
+.footer {
+  display: flex;
+  align-items: flex-start;
+}
+.footer {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.follow-us1 {
+  width: 334px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.follow-us2 {
+  margin: 0;
+  width: 130px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.you-tube {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.facebook-icon1,
+.instagram-icon1,
+.youtube-icon1 {
+  height: 40px;
+  width: 56.9px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.facebook-icon1,
+.instagram-icon1 {
+  width: 40px;
+}
+.instagram,
+.social-media-i-c-o-n-s {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.instagram {
+  height: 40px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.social-media-i-c-o-n-s {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.privacy-policy2 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 120px;
+}
+.privacy-policy1,
+.social-media-i-c-o-n-s-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.privacy-policy1 {
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.social-media-i-c-o-n-s-parent {
+  width: 236.9px;
+  flex-direction: column;
+  gap: var(--gap-71xl);
+}
+.terms-conditions-t-e-x-t {
+  align-self: stretch;
+  background-color: var(--color-lightskyblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-20xl) var(--padding-80xl-1) var(--padding-21xl)
+    var(--padding-503xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.filters {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .copyright-t-e-x-t {
+    gap: 30px 60px;
+  }
+  .rainwater-harvesting-filters {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .home-group {
+    display: none;
+  }
+  .filters-t-e-x-t {
+    width: 0;
+  }
+  .top1 {
+    padding-left: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .contact-us-t-e-x-t {
+    flex-wrap: wrap;
+  }
+  .terms-conditions-t-e-x-t {
+    padding-left: var(--padding-242xl);
+    padding-right: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .filters {
+    gap: 25px 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .login-signup-i-n-p-u-t-parent {
+    display: none;
+  }
+  .top-child {
+    width: 0;
+  }
+  .contact-us1,
+  .rooftop-rainwater-harvesting1 {
+    font-size: var(--font-size-3xl);
+  }
+  .helpraindropreservoirscom1,
+  .raindropreservoirs3,
+  .xxxx1 {
+    font-size: var(--font-size-lgi);
+  }
+  .follow-us2 {
+    font-size: var(--font-size-3xl);
+  }
+  .terms-conditions-t-e-x-t {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

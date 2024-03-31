@@ -1,0 +1,590 @@
+.reservoirs4 {
+  color: var(--color-dimgray);
+}
+.raindropreservoirs4 {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 113px);
+  display: inline-block;
+  width: 229px;
+  height: 37px;
+  white-space: nowrap;
+}
+.raindropreservoirs-wrapper {
+  width: 144px;
+  height: 59px;
+  position: relative;
+  background-image: url(./public/raindrop-reservoirs-label@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.top-inner1 {
+  width: 202px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us2,
+.home3 {
+  position: relative;
+  display: inline-block;
+  min-width: 51px;
+  cursor: pointer;
+}
+.about-us2 {
+  min-width: 79px;
+  white-space: nowrap;
+}
+.home-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.login2,
+.top-inner2 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  text-align: left;
+}
+.top-inner2 {
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.login2 {
+  position: relative;
+  color: var(--color-royalblue-100);
+  display: inline-block;
+  min-width: 47px;
+}
+.login-signup-button {
+  cursor: pointer;
+  border: 2px solid var(--color-royalblue-100);
+  padding: var(--padding-6xs) var(--padding-lg) var(--padding-7xs)
+    var(--padding-2xl);
+  background-color: transparent;
+  width: 90px;
+  border-radius: var(--br-21xl);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-signup-button:hover {
+  background-color: var(--color-dodgerblue-200);
+  border: 2px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.sign-up2 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 64px;
+}
+.login-signup-button1 {
+  cursor: pointer;
+  border: 3px solid var(--color-royalblue-100);
+  padding: var(--padding-6xs) var(--padding-mid) var(--padding-7xs)
+    var(--padding-lg);
+  background-color: var(--color-royalblue-100);
+  flex: 1;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.login-signup-button1:hover {
+  background-color: var(--color-dodgerblue-100);
+  border: 3px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.login-signup-button-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.login-signup-button-parent,
+.top-inner3,
+.top2 {
+  display: flex;
+  align-items: flex-start;
+}
+.top-inner3 {
+  width: 231px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.top2 {
+  align-self: stretch;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-2xl) var(--padding-22xl) var(--padding-xl)
+    var(--padding-51xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-playfair-display);
+}
+.openmojireturn-back-button-icon1 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.systems-solutions1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.openmojireturn-back-button-parent {
+  width: 783px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.image-2-icon1 {
+  align-self: stretch;
+  height: 592px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.there-are-two-major-techniques {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.blank-line3,
+.check-damcement-plugnala,
+.contour-bund,
+.dugwell-recharge,
+.groundwater-recharge,
+.groundwater-recharge-is,
+.gully-plug,
+.percolation-tank,
+.rainwater-in-rural,
+.recharge-shaft,
+.surface-runoff-harvesting-in {
+  margin: 0;
+}
+.there-are-two-container {
+  height: 531px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.there-are-two-major-techniques-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 9px 0 var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.challenges-and-solutions- {
+  margin: 0;
+}
+.while-the-harvesting {
+  margin: 0;
+  font-size: var(--font-size-lg);
+}
+.challenges-and-solutions-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+}
+.frame-parent4,
+.image-2-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  gap: 29px;
+  max-width: 100%;
+}
+.image-2-parent {
+  width: 1108px;
+  gap: 49px;
+}
+.frame-section,
+.frame-wrapper,
+.image-2-parent,
+.systems-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.frame-section,
+.systems-inner {
+  justify-content: flex-start;
+}
+.frame-section {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-45xl);
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-royalblue-100);
+  font-family: var(--font-playfair-display);
+}
+.systems-inner {
+  width: 1344px;
+  flex-direction: row;
+  padding: 0 var(--padding-51xl) 55px;
+  box-sizing: border-box;
+}
+.contact-us2 {
+  margin: 0;
+  width: 152px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.contact-us-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.xxxx2 {
+  width: 191px;
+  position: relative;
+  display: inline-block;
+}
+.reservoirs5 {
+  color: var(--color-gainsboro-100);
+}
+.raindropreservoirs5 {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 113px);
+  display: inline-block;
+  width: 229px;
+  height: 37px;
+}
+.raindrop-reservoirs-label2 {
+  align-self: stretch;
+  height: 59px;
+  position: relative;
+  background-image: url(./public/raindrop-reservoirs-label@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyright-20232 {
+  position: relative;
+  font-weight: 500;
+}
+.copyright-2023-container,
+.raindrop-reservoirs-label-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.copyright-2023-container {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.raindrop-reservoirs-label-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 144px;
+  flex-direction: column;
+  gap: var(--gap-87xl);
+}
+.x-icon2 {
+  position: absolute;
+  top: 35px;
+  left: 879px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.frame-parent7 {
+  height: 187px;
+  width: 919px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -86px;
+  left: -387px;
+}
+.helpraindropreservoirscom2 {
+  width: 334px;
+  position: relative;
+  font-family: var(--font-inter);
+  display: inline-block;
+  white-space: nowrap;
+}
+.frame-parent6,
+.xxxx-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent6 {
+  flex-direction: row;
+  position: relative;
+  font-family: var(--font-playfair-display);
+}
+.xxxx-container {
+  flex-direction: column;
+  padding: 0 0 var(--padding-15xl);
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-5xl);
+}
+.terms-conditions2 {
+  position: relative;
+  font-weight: 500;
+}
+.terms-conditions-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.frame-parent5 {
+  width: 334px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.follow-us3 {
+  margin: 0;
+  width: 130px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.social-media-labels {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.facebook-icon2,
+.instagram-icon2,
+.youtube-icon2 {
+  height: 40px;
+  width: 56.9px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.facebook-icon2,
+.instagram-icon2 {
+  width: 40px;
+}
+.social-media-labels-parent,
+.youtube-group {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.youtube-group {
+  height: 40px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.social-media-labels-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.privacy-policy3 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 120px;
+}
+.frame-parent8,
+.privacy-policy-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.privacy-policy-container {
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.frame-parent8 {
+  width: 236.9px;
+  flex-direction: column;
+  gap: var(--gap-71xl);
+}
+.privacy-policy-link {
+  align-self: stretch;
+  background-color: var(--color-lightskyblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-20xl) var(--padding-80xl-1) var(--padding-21xl)
+    var(--padding-503xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.systems {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .systems-inner {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    padding-bottom: 36px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .home-container {
+    display: none;
+  }
+  .top-inner2 {
+    width: 0;
+  }
+  .top2 {
+    padding-left: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .image-2-parent {
+    gap: 24px 49px;
+  }
+  .frame-section {
+    gap: 32px 64px;
+  }
+  .systems-inner {
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .privacy-policy-link {
+    padding-left: var(--padding-242xl);
+    padding-right: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .systems {
+    gap: 25px 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .login-signup-button-parent {
+    display: none;
+  }
+  .top-inner3 {
+    width: 0;
+  }
+  .systems-solutions1 {
+    font-size: var(--font-size-3xl);
+  }
+  .openmojireturn-back-button-parent {
+    flex-wrap: wrap;
+  }
+  .frame-section {
+    gap: 16px 64px;
+  }
+  .contact-us2 {
+    font-size: var(--font-size-3xl);
+  }
+  .helpraindropreservoirscom2,
+  .raindropreservoirs5,
+  .xxxx2 {
+    font-size: var(--font-size-lgi);
+  }
+  .follow-us3 {
+    font-size: var(--font-size-3xl);
+  }
+  .privacy-policy-link {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

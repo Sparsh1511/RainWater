@@ -1,0 +1,588 @@
+.reservoirs6 {
+  color: var(--color-dimgray);
+}
+.raindropreservoirs6 {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 113px);
+  display: inline-block;
+  width: 229px;
+  height: 37px;
+  white-space: nowrap;
+}
+.raindropreservoirs-container {
+  width: 144px;
+  height: 59px;
+  position: relative;
+  background-image: url(./public/raindrop-reservoirs-label@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.top-inner4 {
+  width: 202px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us3,
+.home4 {
+  position: relative;
+  display: inline-block;
+  min-width: 51px;
+  cursor: pointer;
+}
+.about-us3 {
+  min-width: 79px;
+  white-space: nowrap;
+}
+.home-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.login3,
+.top-inner5 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  text-align: left;
+}
+.top-inner5 {
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.login3 {
+  position: relative;
+  color: var(--color-royalblue-100);
+  display: inline-block;
+  min-width: 47px;
+}
+.login-wrapper {
+  cursor: pointer;
+  border: 2px solid var(--color-royalblue-100);
+  padding: var(--padding-6xs) var(--padding-lg) var(--padding-7xs)
+    var(--padding-2xl);
+  background-color: transparent;
+  width: 90px;
+  border-radius: var(--br-21xl);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-wrapper:hover {
+  background-color: var(--color-dodgerblue-200);
+  border: 2px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.sign-up3 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 64px;
+}
+.frame-parent9,
+.sign-up-wrapper {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.sign-up-wrapper {
+  cursor: pointer;
+  border: 3px solid var(--color-royalblue-100);
+  padding: var(--padding-6xs) var(--padding-mid) var(--padding-7xs)
+    var(--padding-lg);
+  background-color: var(--color-royalblue-100);
+  flex: 1;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  white-space: nowrap;
+}
+.sign-up-wrapper:hover {
+  background-color: var(--color-dodgerblue-100);
+  border: 3px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.frame-parent9 {
+  align-self: stretch;
+  gap: var(--gap-17xl);
+}
+.frame-parent9,
+.top-inner6,
+.top3 {
+  display: flex;
+  align-items: flex-start;
+}
+.top-inner6 {
+  width: 231px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.top3 {
+  align-self: stretch;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-2xl) var(--padding-22xl) var(--padding-xl)
+    var(--padding-51xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-playfair-display);
+}
+.openmojireturn-back-button-icon2 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.groundwater-recharging2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.openmojireturn-back-button-group {
+  width: 814px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.image-2-icon2 {
+  width: 1108px;
+  height: 592px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.groundwater-recharge-can,
+.recharge-ponds-and,
+.the-water-used {
+  margin: 0;
+}
+.groundwater-recharge-can-container {
+  align-self: stretch;
+  position: relative;
+}
+.the-groundwater-replenishment {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.the-groundwater-replenishment-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 56px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+}
+.projects-like-these {
+  align-self: stretch;
+  position: relative;
+}
+.groundwater-recharge-can-occur-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.helpraindropreservoirscom-labe1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.frame-wrapper1,
+.helpraindropreservoirscom-labe1,
+.image-2-group {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.image-2-group {
+  width: 1124px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.frame-parent10,
+.raindrop-reservoirs-label3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent10 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-45xl);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-royalblue-100);
+  font-family: var(--font-playfair-display);
+}
+.raindrop-reservoirs-label3 {
+  width: 1360px;
+  flex-direction: row;
+  padding: 0 var(--padding-51xl) 136px;
+  box-sizing: border-box;
+}
+.contact-us3 {
+  margin: 0;
+  width: 152px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.contact-us-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.xxxx3 {
+  width: 191px;
+  position: relative;
+  display: inline-block;
+}
+.reservoirs7 {
+  color: var(--color-gainsboro-100);
+}
+.raindropreservoirs7 {
+  position: absolute;
+  top: 43px;
+  left: calc(50% - 113px);
+  display: inline-block;
+  width: 229px;
+  height: 37px;
+}
+.raindropreservoirs-frame {
+  align-self: stretch;
+  height: 59px;
+  position: relative;
+  background-image: url(./public/raindrop-reservoirs-label@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyright-20233 {
+  position: relative;
+  font-weight: 500;
+}
+.copyright-2023-frame,
+.frame-parent15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.copyright-2023-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.frame-parent15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 144px;
+  flex-direction: column;
+  gap: var(--gap-87xl);
+}
+.x-icon3 {
+  position: absolute;
+  top: 35px;
+  left: 879px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.frame-parent14 {
+  height: 187px;
+  width: 919px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -86px;
+  left: -387px;
+}
+.helpraindropreservoirscom3 {
+  width: 334px;
+  position: relative;
+  font-family: var(--font-inter);
+  display: inline-block;
+  white-space: nowrap;
+}
+.frame-parent13,
+.xxxx-parent1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent13 {
+  flex-direction: row;
+  position: relative;
+  font-family: var(--font-playfair-display);
+}
+.xxxx-parent1 {
+  flex-direction: column;
+  padding: 0 0 var(--padding-15xl);
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-5xl);
+}
+.terms-conditions3 {
+  position: relative;
+  font-weight: 500;
+}
+.terms-conditions-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.frame-parent12 {
+  width: 334px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.follow-us4 {
+  margin: 0;
+  width: 130px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.follow-us-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.facebook-icon3,
+.instagram-icon3,
+.youtube-icon3 {
+  height: 40px;
+  width: 56.9px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.facebook-icon3,
+.instagram-icon3 {
+  width: 40px;
+}
+.frame-parent17,
+.youtube-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.youtube-container {
+  height: 40px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent17 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.privacy-policy4 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 120px;
+}
+.frame-parent16,
+.privacy-policy-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.privacy-policy-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  text-align: left;
+  font-size: var(--font-size-lg);
+}
+.frame-parent16 {
+  width: 236.9px;
+  flex-direction: column;
+  gap: var(--gap-71xl);
+}
+.frame-parent11,
+.recharg {
+  overflow: hidden;
+  display: flex;
+}
+.frame-parent11 {
+  align-self: stretch;
+  background-color: var(--color-lightskyblue);
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-20xl) var(--padding-80xl-1) var(--padding-21xl)
+    var(--padding-503xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.recharg {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .the-groundwater-replenishment-wrapper {
+    padding-left: var(--padding-9xl);
+    padding-right: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+  .raindrop-reservoirs-label3 {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    padding-bottom: 88px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .home-parent1 {
+    display: none;
+  }
+  .top-inner5 {
+    width: 0;
+  }
+  .top3 {
+    padding-left: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .image-2-group {
+    gap: 20px 40px;
+  }
+  .frame-parent10 {
+    gap: 32px 64px;
+  }
+  .raindrop-reservoirs-label3 {
+    padding-bottom: 57px;
+    box-sizing: border-box;
+  }
+  .frame-parent11 {
+    padding-left: var(--padding-242xl);
+    padding-right: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .recharg {
+    gap: 25px 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent9 {
+    display: none;
+  }
+  .top-inner6 {
+    width: 0;
+  }
+  .groundwater-recharging2 {
+    font-size: var(--font-size-3xl);
+  }
+  .openmojireturn-back-button-group {
+    flex-wrap: wrap;
+  }
+  .frame-parent10 {
+    gap: 16px 64px;
+  }
+  .contact-us3 {
+    font-size: var(--font-size-3xl);
+  }
+  .helpraindropreservoirscom3,
+  .raindropreservoirs7,
+  .xxxx3 {
+    font-size: var(--font-size-lgi);
+  }
+  .follow-us4 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent11 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
